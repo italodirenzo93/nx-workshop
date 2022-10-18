@@ -44,6 +44,7 @@
     "@nrwl/nest": "15.0.0",
     "@nrwl/node": "15.0.0",
     "@nrwl/nx-plugin": "15.0.0",
+    "@nrwl/nx-workshop": "^0.4.5",
     "@nrwl/storybook": "15.0.0",
     "@nrwl/workspace": "15.0.0",
     "@phenomnomnominal/tsquery": "^4.1.1",
@@ -66,4 +67,3 @@
     "typescript": "4.8.4"
   }
 }
-
